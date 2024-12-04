@@ -13,3 +13,6 @@ adding username
 
 adding user email
 >git config --global user.email "useremail"
+
+>git remote add remot_name remot_path
+>git push remot_name branch
