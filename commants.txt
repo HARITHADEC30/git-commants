@@ -2,3 +2,7 @@
 >git init[ command for initializimg git in pwd]
 >git status[listing all untracked files]
 >git add -A[to command for adding all untracked files to staging area]
+>git commit -m "commit message"[command for adding staged files to localrepository]
+>git clone[exact copy from remote repository to local workspace]
+>git push[local repository changes to remote repository]
+>git pull[change from remote repository to local worspace]
