@@ -6,3 +6,10 @@
 >git clone[exact copy from remote repository to local workspace]
 >git push[local repository changes to remote repository]
 >git pull[change from remote repository to local worspace]
+>git config --list[to list configfration]
+
+adding username
+>git config --global user.name "username"
+
+adding user email
+>git config --global user.email "useremail"
